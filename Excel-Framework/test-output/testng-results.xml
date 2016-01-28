@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81714" started-at="2016-01-28T11:59:47Z" finished-at="2016-01-28T12:01:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="81714" started-at="2016-01-28T11:59:47Z" finished-at="2016-01-28T12:01:09Z">
+      <class name="ExcelFrame.DataDriven">
+        <test-method status="PASS" signature="testSetup()[pri:0, instance:ExcelFrame.DataDriven@a9e816]" name="testSetup" is-config="true" duration-ms="9782" started-at="2016-01-28T17:29:47Z" finished-at="2016-01-28T17:29:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method status="PASS" signature="testClick(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExcelFrame.DataDriven@a9e816]" name="testClick" duration-ms="11054" started-at="2016-01-28T17:29:57Z" data-provider="data-provider" finished-at="2016-01-28T17:30:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.google.co.in]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[//*[@id='gbw']/div/div/div[1]/div[1]/a]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//*[@id='gbw']/div/div/div[1]/div[2]/a]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[//*[@id='gbwa']/div[1]/a]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[//*[@id='gb_70']]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[//*[@id='sb_ifc0']]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[//*[@id='tsf']/div[2]/div[3]/center/input[1]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClick -->
+        <test-method status="PASS" signature="testClick(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExcelFrame.DataDriven@a9e816]" name="testClick" duration-ms="15794" started-at="2016-01-28T17:30:08Z" data-provider="data-provider" finished-at="2016-01-28T17:30:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.google.co.in]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[//*[@id='gbw']/div/div/div[1]/div[1]/a]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//*[@id='gbw']/div/div/div[1]/div[2]/a]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[//*[@id='gbwa']/div[1]/a]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[//*[@id='gb_70']]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[//*[@id='sb_ifc0']]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[.Net]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[//*[@id='tsf']/div[2]/div[3]/center/input[1]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClick -->
+        <test-method status="PASS" signature="testClick(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExcelFrame.DataDriven@a9e816]" name="testClick" duration-ms="15074" started-at="2016-01-28T17:30:24Z" data-provider="data-provider" finished-at="2016-01-28T17:30:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.google.co.in]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[//*[@id='gbw']/div/div/div[1]/div[1]/a]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//*[@id='gbw']/div/div/div[1]/div[2]/a]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[//*[@id='gbwa']/div[1]/a]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[//*[@id='gb_70']]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[//*[@id='sb_ifc0']]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[//*[@id='tsf']/div[2]/div[3]/center/input[1]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClick -->
+        <test-method status="PASS" signature="testClick(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExcelFrame.DataDriven@a9e816]" name="testClick" duration-ms="24" started-at="2016-01-28T17:30:39Z" data-provider="data-provider" finished-at="2016-01-28T17:30:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.google.co.in]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[//*[@id='gbw']/div/div/div[1]/div[1]/a]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//*[@id='gbw']/div/div/div[1]/div[2]/a]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[//*[@id='gbwa']/div[1]/a]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[//*[@id='gb_70']]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[//*[@id='sb_ifc0']]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[C++]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[//*[@id='tsf']/div[2]/div[3]/center/input[1]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClick -->
+        <test-method status="PASS" signature="testClick(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExcelFrame.DataDriven@a9e816]" name="testClick" duration-ms="18" started-at="2016-01-28T17:30:39Z" data-provider="data-provider" finished-at="2016-01-28T17:30:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.google.co.in]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[//*[@id='gbw']/div/div/div[1]/div[1]/a]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//*[@id='gbw']/div/div/div[1]/div[2]/a]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[//*[@id='gbwa']/div[1]/a]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[//*[@id='gb_70']]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[//*[@id='sb_ifc0']]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[PHP]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[//*[@id='tsf']/div[2]/div[3]/center/input[1]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClick -->
+        <test-method status="PASS" signature="testClick(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExcelFrame.DataDriven@a9e816]" name="testClick" duration-ms="14020" started-at="2016-01-28T17:30:39Z" data-provider="data-provider" finished-at="2016-01-28T17:30:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.google.co.in]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[//*[@id='gbw']/div/div/div[1]/div[1]/a]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//*[@id='gbw']/div/div/div[1]/div[2]/a]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[//*[@id='gbwa']/div[1]/a]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[//*[@id='gb_70']]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[//*[@id='sb_ifc0']]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Manual Testing]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[//*[@id='tsf']/div[2]/div[3]/center/input[1]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClick -->
+        <test-method status="PASS" signature="testClick(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExcelFrame.DataDriven@a9e816]" name="testClick" duration-ms="15030" started-at="2016-01-28T17:30:53Z" data-provider="data-provider" finished-at="2016-01-28T17:31:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.google.co.in]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[//*[@id='gbw']/div/div/div[1]/div[1]/a]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//*[@id='gbw']/div/div/div[1]/div[2]/a]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[//*[@id='gbwa']/div[1]/a]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[//*[@id='gb_70']]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[//*[@id='sb_ifc0']]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Automation Test]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[//*[@id='tsf']/div[2]/div[3]/center/input[1]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClick -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ExcelFrame.DataDriven@a9e816]" name="tearDown" is-config="true" duration-ms="635" started-at="2016-01-28T17:31:08Z" finished-at="2016-01-28T17:31:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ExcelFrame.DataDriven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
